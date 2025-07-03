@@ -1,4 +1,4 @@
-package javamodulo003;
+package javamodulo003.com.arquitecturajava;
 
 public class Persona {
 
