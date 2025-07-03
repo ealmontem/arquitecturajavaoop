@@ -1,4 +1,4 @@
-package javamodulo003.com.arquitecturajava;
+package javamodulo003.com.arquitecturajava.ejemplo001;
 
 public class Persona {
 
@@ -11,4 +11,6 @@ public class Persona {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
+
+
 }

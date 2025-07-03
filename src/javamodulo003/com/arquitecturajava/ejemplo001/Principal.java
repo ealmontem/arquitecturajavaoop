@@ -1,4 +1,4 @@
-package javamodulo003.com.arquitecturajava;
+package javamodulo003.com.arquitecturajava.ejemplo001;
 
 public class Principal {
     public static void main(String[] args) {
@@ -6,7 +6,9 @@ public class Principal {
         deportista.setNombre("Elvis");
         deportista.setDeporte("Beisbol");
 
+
         System.out.println(deportista.getNombre());
         System.out.println(deportista.getDeporte());
+
     }
 }
